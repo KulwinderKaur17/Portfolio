@@ -1,0 +1,549 @@
+{
+  "tracks": [
+    {
+      "artist": "Billie Eilish",
+      "album": "Six Feet Under",
+      "track": "Six Feet Under",
+      "uri": "spotify:track:2VlLbhGLVJgdOW7kKdWWFc"
+    },
+    {
+      "artist": "Ed Sheeran",
+      "album": "+",
+      "track": "Kiss Me",
+      "uri": "spotify:track:0Tel1fmuCxEFV6wBLXsEdk"
+    },
+    {
+      "artist": "Imagine Dragons",
+      "album": "Evolve",
+      "track": "Believer",
+      "uri": "spotify:track:1NtIMM4N0cFa1dNzN15chl"
+    },
+    {
+      "artist": "Lauv",
+      "album": "I met you when I was 18.",
+      "track": "I Like Me Better",
+      "uri": "spotify:track:2P91MQbaiQOfbiz9VqhqKQ"
+    },
+    {
+      "artist": "Shawn Mendes",
+      "album": "Shawn Mendes",
+      "track": "Señorita",
+      "uri": "spotify:track:6v3KW9xbzN5yKLt9YKDYA2"
+    },
+    {
+      "artist": "DHARIA",
+      "album": "Sugar & Brownies",
+      "track": "Sugar & Brownies",
+      "uri": "spotify:track:16ih0TTm4REIQuYBMPTHm8"
+    },
+    {
+      "artist": "Alexander Rybak",
+      "album": "Fairytale",
+      "track": "Fairytale",
+      "uri": "spotify:track:3MnAsEBBsEj86d03RgO4EM"
+    },
+    {
+      "artist": "Ed Sheeran",
+      "album": "x",
+      "track": "Thinking out Loud",
+      "uri": "spotify:track:1Slwb6dOYkBlWal1PGtnNg"
+    },
+    {
+      "artist": "Ed Sheeran",
+      "album": "Afterglow",
+      "track": "Afterglow",
+      "uri": "spotify:track:0E4Y1XIbs8GrAT1YqVy6dq"
+    },
+    {
+      "artist": "Shawn Mendes",
+      "album": "Handwritten",
+      "track": "Never Be Alone",
+      "uri": "spotify:track:3BYyBzKGPOCHeginhe0F77"
+    },
+    {
+      "artist": "Glass Animals",
+      "album": "Dreamland",
+      "track": "Heat Waves",
+      "uri": "spotify:track:3USxtqRwSYz57Ewm6wWRMp"
+    },
+    {
+      "artist": "Ella Henderson",
+      "album": "Everything I Didn’t Say",
+      "track": "Ugly",
+      "uri": "spotify:track:2kHQScyzjnhhuBPQQ1AVfo"
+    },
+    {
+      "artist": "Sia",
+      "album": "This Is Acting",
+      "track": "Cheap Thrills",
+      "uri": "spotify:track:27SdWb2rFzO6GWiYDBTD9j"
+    },
+    {
+      "artist": "The Chainsmokers",
+      "album": "Closer",
+      "track": "Closer",
+      "uri": "spotify:track:7BKLCZ1jbUBVqRi2FVlTVw"
+    },
+    {
+      "artist": "Calvin Harris",
+      "album": "18 Months",
+      "track": "I Need Your Love (feat. Ellie Goulding)",
+      "uri": "spotify:track:05SBRd4fXgn8FX7bf8BCAE"
+    },
+    {
+      "artist": "Ed Sheeran",
+      "album": "÷",
+      "track": "Shape of You",
+      "uri": "spotify:track:7qiZfU4dY1lWllzX7mPBI3"
+    },
+    {
+      "artist": "Lady Gaga",
+      "album": "A Star Is Born Soundtrack",
+      "track": "Always Remember Us This Way",
+      "uri": "spotify:track:2rbDhOo9Fh61Bbu23T2qCk"
+    },
+    {
+      "artist": "Taylor Swift",
+      "album": "1989",
+      "track": "Wildest Dreams",
+      "uri": "spotify:track:3fVnlF4pGqWI9flVENcT28"
+    },
+    {
+      "artist": "Céline Dion",
+      "album": "Let's Talk About Love",
+      "track": "My Heart Will Go On - Love Theme from \"Titanic\"",
+      "uri": "spotify:track:33LC84JgLvK2KuW43MfaNq"
+    },
+    {
+      "artist": "Coldplay",
+      "album": "Hymn for the Weekend",
+      "track": "Hymn for the Weekend - Seeb Remix",
+      "uri": "spotify:track:6s3GEN8wK0OMzzzZbXj0fu"
+    },
+    {
+      "artist": "Ellie Goulding",
+      "album": "Still Falling For You",
+      "track": "Still Falling For You - From \"Bridget Jones's Baby\"",
+      "uri": "spotify:track:3odrUVQ9tvRpkC9II2oWzx"
+    },
+    {
+      "artist": "Coldplay",
+      "album": "Let Somebody Go",
+      "track": "Let Somebody Go - Single Version",
+      "uri": "spotify:track:1d8Pn4akKfdadbavUjAGoS"
+    },
+    {
+      "artist": "CKay",
+      "album": "CKay The First",
+      "track": "love nwantiti (ah ah ah)",
+      "uri": "spotify:track:2Xr1dTzJee307rmrkt8c0g"
+    },
+    {
+      "artist": "Charlie Puth",
+      "album": "Voicenotes",
+      "track": "Attention",
+      "uri": "spotify:track:5cF0dROlMOK5uNZtivgu50"
+    },
+    {
+      "artist": "Ed Sheeran",
+      "album": "÷",
+      "track": "How Would You Feel (Paean)",
+      "uri": "spotify:track:6PJ8FF6UR8FZXfEvpHkIVN"
+    },
+    {
+      "artist": "Ellie Goulding",
+      "album": "Delirium",
+      "track": "Love Me Like You Do - From \"Fifty Shades Of Grey\"",
+      "uri": "spotify:track:2l8w0zZVn4AZNuzrht7MRT"
+    },
+    {
+      "artist": "Ed Sheeran",
+      "album": "x",
+      "track": "Thinking out Loud",
+      "uri": "spotify:track:34gCuhDGsG4bRPIf9bb02f"
+    },
+    {
+      "artist": "Sia",
+      "album": "This Is Acting",
+      "track": "Unstoppable",
+      "uri": "spotify:track:2J2Z1SkXYghSajLibnQHOa"
+    },
+    {
+      "artist": "Russ",
+      "album": "Just In Case",
+      "track": "Nobody Knows",
+      "uri": "spotify:track:1pNAf6W7POwjOD8x8mWf8G"
+    },
+    {
+      "artist": "Selena Gomez",
+      "album": "13 Reasons Why",
+      "track": "Back To You",
+      "uri": "spotify:track:514rhnksEwHUh6LxXsQ4Y9"
+    },
+    {
+      "artist": "Céline Dion",
+      "album": "Let's Talk About Love",
+      "track": "Let's Talk About Love",
+      "uri": "spotify:track:1gVX2sJy1oFzylg4Ew3F2X"
+    },
+    {
+      "artist": "Taylor Swift",
+      "album": "reputation",
+      "track": "Delicate",
+      "uri": "spotify:track:6NFyWDv5CjfwuzoCkw47Xf"
+    },
+    {
+      "artist": "Imagine Dragons",
+      "album": "Evolve",
+      "track": "Thunder",
+      "uri": "spotify:track:7BrsBU0BAytRDvROM4yCbn"
+    },
+    {
+      "artist": "J Balvin",
+      "album": "Sigue/Forever My Love",
+      "track": "Sigue",
+      "uri": "spotify:track:0bBd6K5X4W7t9GyXcaVOA7"
+    },
+    {
+      "artist": "Ellie Goulding",
+      "album": "Delirium",
+      "track": "Something In The Way You Move",
+      "uri": "spotify:track:6Wytqpe4mfmyeT8s1xbczG"
+    },
+    {
+      "artist": "The Vamps",
+      "album": "Meet The Vamps",
+      "track": "Somebody To You",
+      "uri": "spotify:track:3QihIU0zB0c5H4AlwS21OS"
+    },
+    {
+      "artist": "Maroon 5",
+      "album": "Red Pill Blues",
+      "track": "Girls Like You",
+      "uri": "spotify:track:7npLlaPu9Mfno8hjk5OagD"
+    },
+    {
+      "artist": "Christina Perri",
+      "album": "A Thousand Years",
+      "track": "A Thousand Years",
+      "uri": "spotify:track:6lanRgr6wXibZr8KgzXxBl"
+    },
+    {
+      "artist": "Dua Lipa",
+      "album": "Future Nostalgia",
+      "track": "Levitating",
+      "uri": "spotify:track:39LLxExYz6ewLAcYrzQQyP"
+    },
+    {
+      "artist": "Justin Bieber",
+      "album": "Holy",
+      "track": "Holy (feat. Chance The Rapper)",
+      "uri": "spotify:track:5u1n1kITHCxxp8twBcZxWy"
+    },
+    {
+      "artist": "Charlie Puth",
+      "album": "Nine Track Mind",
+      "track": "We Don't Talk Anymore (feat. Selena Gomez)",
+      "uri": "spotify:track:06KyNuuMOX1ROXRhj787tj"
+    },
+    {
+      "artist": "Doja Cat",
+      "album": "Planet Her",
+      "track": "Kiss Me More (feat. SZA)",
+      "uri": "spotify:track:3DarAbFujv6eYNliUTyqtz"
+    },
+    {
+      "artist": "DJ Snake",
+      "album": "Encore",
+      "track": "Let Me Love You",
+      "uri": "spotify:track:4pdPtRcBmOSQDlJ3Fk945m"
+    },
+    {
+      "artist": "Cartoon",
+      "album": "On & On",
+      "track": "On & On",
+      "uri": "spotify:track:4B2kkxg3wKSTZw5JPaUtzQ"
+    },
+    {
+      "artist": "JP Saxe",
+      "album": "Kissin' In The Cold",
+      "track": "Kissin' In The Cold",
+      "uri": "spotify:track:2nZq5WQOW4FEPxCVTdNGfB"
+    },
+    {
+      "artist": "Zac Efron",
+      "album": "Rewrite The Stars",
+      "track": "Rewrite The Stars",
+      "uri": "spotify:track:630sXRhIcfwr2e4RdNtjKN"
+    },
+    {
+      "artist": "PUBLIC",
+      "album": "Make You Mine",
+      "track": "Make You Mine",
+      "uri": "spotify:track:5iFwAOB2TFkPJk8sMlxP8g"
+    },
+    {
+      "artist": "Taylor Swift",
+      "album": "Midnights",
+      "track": "Snow On The Beach (feat. Lana Del Rey)",
+      "uri": "spotify:track:1wtOxkiel43cVs0Yux5Q4h"
+    },
+    {
+      "artist": "Billie Eilish",
+      "album": "lovely (with Khalid)",
+      "track": "lovely (with Khalid)",
+      "uri": "spotify:track:0u2P5u6lvoDfwTYjAADbn4"
+    },
+    {
+      "artist": "Shawn Mendes",
+      "album": "Shawn Mendes",
+      "track": "If I Can't Have You",
+      "uri": "spotify:track:2bT1PH7Cw3J9p3t7nlXCdh"
+    },
+    {
+      "artist": "Alan Walker",
+      "album": "Different World",
+      "track": "Darkside",
+      "uri": "spotify:track:6SRWhUJcD2YKahCwHavz3X"
+    },
+    {
+      "artist": "Idina Menzel",
+      "album": "Frozen",
+      "track": "Let It Go - From \"Frozen\"/Soundtrack Version",
+      "uri": "spotify:track:0qcr5FMsEO85NAQjrlDRKo"
+    },
+    {
+      "artist": "Taylor Swift",
+      "album": "1989",
+      "track": "Shake It Off",
+      "uri": "spotify:track:0cqRj7pUJDkTCEsJkx8snD"
+    },
+    {
+      "artist": "Marshmello",
+      "album": "OK Not To Be OK",
+      "track": "OK Not To Be OK",
+      "uri": "spotify:track:0zzVTGyRrWpQu8Fr28NRAv"
+    },
+    {
+      "artist": "Céline Dion",
+      "album": "A New Day Has Come",
+      "track": "I Surrender",
+      "uri": "spotify:track:67VjdDhTa5jzQxHGe6f26r"
+    },
+    {
+      "artist": "Ed Sheeran",
+      "album": "÷",
+      "track": "Perfect",
+      "uri": "spotify:track:0tgVpDi06FyKpA1z0VMD4v"
+    },
+    {
+      "artist": "Director Fizzix",
+      "album": "You and Me",
+      "track": "You and Me",
+      "uri": "spotify:track:6j6C3dKGx943AJMO1ACNd0"
+    },
+    {
+      "artist": "Maroon 5",
+      "album": "JORDI",
+      "track": "Memories",
+      "uri": "spotify:track:4cktbXiXOapiLBMprHFErI"
+    },
+    {
+      "artist": "Lewis Capaldi",
+      "album": "Divinely Uninspired To A Hellish Extent",
+      "track": "Someone You Loved",
+      "uri": "spotify:track:7qEHsqek33rTcFNT9PFqLf"
+    },
+    {
+      "artist": "Sanjay S Yadav",
+      "album": "I Like Me X Waalian X Kabhi Kabhi",
+      "track": "I Like Me X Waalian X Kabhi Kabhi",
+      "uri": "spotify:track:3XMw6S7gHyRM5h6A0rhW03"
+    },
+    {
+      "artist": "Sia",
+      "album": "This Is Acting (Deluxe Version)",
+      "track": "Cheap Thrills",
+      "uri": "spotify:track:3S4px9f4lceWdKf0gWciFu"
+    },
+    {
+      "artist": "Taylor Swift",
+      "album": "evermore",
+      "track": "evermore (feat. Bon Iver)",
+      "uri": "spotify:track:3O5osWf1rSoKMwe6E9ZaXP"
+    },
+    {
+      "artist": "Witt Lowry",
+      "album": "Into Your Arms (feat. Ava Max)",
+      "track": "Into Your Arms (feat. Ava Max)",
+      "uri": "spotify:track:0b11D9D0hMOYCIMN3OKreM"
+    },
+    {
+      "artist": "Duncan Laurence",
+      "album": "Small Town Boy",
+      "track": "Arcade",
+      "uri": "spotify:track:1J14CdDAvBTE1AJYUOwl6C"
+    },
+    {
+      "artist": "Queen",
+      "album": "Bohemian Rhapsody",
+      "track": "Bohemian Rhapsody",
+      "uri": "spotify:track:3z8h0TU7ReDPLIbEnYhWZb"
+    },
+    {
+      "artist": "Shawn Mendes",
+      "album": "Illuminate",
+      "track": "Treat You Better",
+      "uri": "spotify:track:3QGsuHI8jO1Rx4JWLUh9jd"
+    },
+    {
+      "artist": "Joji",
+      "album": "Glimpse of Us",
+      "track": "Glimpse of Us",
+      "uri": "spotify:track:6xGruZOHLs39ZbVccQTuPZ"
+    },
+    {
+      "artist": "Taylor Swift",
+      "album": "evermore",
+      "track": "evermore (feat. Bon Iver)",
+      "uri": "spotify:track:6Wlq9rqkxrqj5Kls4Kw14H"
+    },
+    {
+      "artist": "Lady Gaga",
+      "album": "A Star Is Born Soundtrack",
+      "track": "I'll Never Love Again - Extended Version",
+      "uri": "spotify:track:2fbJ5Msx8KoDKpyufH5YsU"
+    },
+    {
+      "artist": "Shawn Mendes",
+      "album": "Illuminate",
+      "track": "There's Nothing Holdin' Me Back",
+      "uri": "spotify:track:7JJmb5XwzOO8jgpou264Ml"
+    },
+    {
+      "artist": "Alan Walker",
+      "album": "Different World",
+      "track": "Lily",
+      "uri": "spotify:track:0lks2Kt9veMOFEAPN0fsqN"
+    },
+    {
+      "artist": "Coldplay",
+      "album": "Music Of The Spheres",
+      "track": "Let Somebody Go",
+      "uri": "spotify:track:4cGqn0E8JCSY9gQllQj4Mf"
+    },
+    {
+      "artist": "Alec Benjamin",
+      "album": "Narrated For You",
+      "track": "Let Me Down Slowly",
+      "uri": "spotify:track:2qxmye6gAegTMjLKEBoR3d"
+    },
+    {
+      "artist": "Justin Bieber",
+      "album": "My World 2.0",
+      "track": "Baby",
+      "uri": "spotify:track:6epn3r7S14KUqlReYr77hA"
+    },
+    {
+      "artist": "Avicii",
+      "album": "True",
+      "track": "Wake Me Up",
+      "uri": "spotify:track:0nrRP2bk19rLc0orkWPQk2"
+    },
+    {
+      "artist": "Justin Bieber",
+      "album": "Justice",
+      "track": "Peaches (feat. Daniel Caesar & Giveon)",
+      "uri": "spotify:track:4iJyoBOLtHqaGxP12qzhQI"
+    },
+    {
+      "artist": "Jaymes Young",
+      "album": "Feel Something",
+      "track": "Infinity",
+      "uri": "spotify:track:1SOClUWhOi8vHZYMz3GluK"
+    },
+    {
+      "artist": "Ed Sheeran",
+      "album": "The Joker And The Queen (feat. Taylor Swift)",
+      "track": "The Joker And The Queen (feat. Taylor Swift)",
+      "uri": "spotify:track:6N1K5OVVCopBjGViHs2IvP"
+    },
+    {
+      "artist": "Ellie Goulding",
+      "album": "Halcyon Days",
+      "track": "How Long Will I Love You - Bonus Track",
+      "uri": "spotify:track:7CFQrZR4WeKEg4vweqp8Gv"
+    },
+    {
+      "artist": "Olivia O'Brien",
+      "album": "hate u love u",
+      "track": "hate u love u",
+      "uri": "spotify:track:6ATgDc6e4sPn84hvJsAmPt"
+    },
+    {
+      "artist": "Kina",
+      "album": "Get You The Moon (feat. Snøw)",
+      "track": "Get You The Moon (feat. Snøw)",
+      "uri": "spotify:track:4ZLzoOkj0MPWrTLvooIuaa"
+    },
+    {
+      "artist": "Taylor Swift",
+      "album": "Lover",
+      "track": "Lover",
+      "uri": "spotify:track:1dGr1c8CrMLDpV6mPbImSI"
+    },
+    {
+      "artist": "Adele",
+      "album": "Easy On Me",
+      "track": "Easy On Me",
+      "uri": "spotify:track:0gplL1WMoJ6iYaPgMCL0gX"
+    },
+    {
+      "artist": "Taylor Swift",
+      "album": "Fearless",
+      "track": "Love Story",
+      "uri": "spotify:track:1D4PL9B8gOg78jiHg3FvBb"
+    },
+    {
+      "artist": "Taylor Swift",
+      "album": "1989",
+      "track": "Blank Space",
+      "uri": "spotify:track:1u8c2t2Cy7UBoG4ArRcF5g"
+    }
+  ],
+  "albums": [
+  ],
+  "shows": [
+    {
+      "name": "Mission ISRO with Harsha Bhogle",
+      "publisher": "Spotify Studios",
+      "uri": "spotify:show:2JXFCMLGVhTBtdz1WYxd4H"
+    }
+  ],
+  "episodes": [
+  ],
+  "bannedTracks": [
+  ],
+  "artists": [
+    {
+      "name": "Armaan Malik",
+      "uri": "spotify:artist:4IKVDbCSBTxBeAsMKjAuTs"
+    },
+    {
+      "name": "Atif Aslam",
+      "uri": "spotify:artist:2oSONSC9zQ4UonDKnLqksx"
+    },
+    {
+      "name": "Sidhu Moose Wala",
+      "uri": "spotify:artist:4PULA4EFzYTrxYvOVlwpiQ"
+    },
+    {
+      "name": "Vilen",
+      "uri": "spotify:artist:5gVozagAcRKYCeAVnlC3Nk"
+    }
+  ],
+  "bannedArtists": [
+  ],
+  "other": [
+  ]
+}

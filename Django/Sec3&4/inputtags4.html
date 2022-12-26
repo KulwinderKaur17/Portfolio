@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title>hotel feedback</title>
+  </head>
+  <body>
+    <h1>Hotel Feedback Form</h1>
+
+
+    <form method="get">
+            <h2>Are you from inside the USA or outside?</h2>
+            <label for="inusa">Inside</label>
+            <input id="inusa" type="radio" name="" value="">
+            <label for="outusa">Outside</label>
+            <input id="outusa" type="radio" name="" value="">
+              <!-- Here Problem is we can click on both buttons -->
+    </form>
+
+
+Problem we can solve by giving the same name in input tag like loc
+    <form method="get">
+            <h3>Are you from inside the USA or outside?</h3>
+            <label for="inusa">Inside</label>
+            <input id="inusa" type="radio" name="loc" value="">
+            <label for="outusa">Outside</label>
+            <input id="outusa" type="radio" name="loc" value="">
+              <!--now we can click on single buttonss -->
+    </form>
+
+
+
+    <h2>Hows yours jobs is? </h2>
+    <!-- dropdown menu -->
+    <select class="" name="stars">
+            <option value="great">3</option>
+            <option value="Okay">2</option>
+            <option value="Bad">1</option>
+            <!-- in the backened we know great is 3 and okay is 2 and so on, but in front user see only 1,2,3 -->
+    </select>
+    <h2>Any other Feedback</h2>
+    <textarea name="mytext" rows="8" cols="80"></textarea>
+    <input type="submit" name="" value="Submit">
+
+  </body>
+</html>
