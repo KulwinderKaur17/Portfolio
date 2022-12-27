@@ -1,0 +1,554 @@
+artist,id,genre
+Mithoon,09UmIX92EUH9hAK4bxvHx6,"['desi pop', 'filmi', 'modern bollywood', 'sufi']"
+Sanam,7o7doCwqft91WC690aglWC,"['desi pop', 'modern bollywood']"
+"Sippy Gill, Desi Roots",3YoYru7MdcyhImg7mUHFic,"['desi pop', 'punjabi pop']"
+Lauv,5JZ7CnR6gTvEMKX4g70Amv,['pop']
+The PropheC,4aopF0aU0Nbu5GtSorXV0W,"['desi hip hop', 'desi pop', 'punjabi pop']"
+The Vamps,7gAppWoH7pcYmphCVTXkzs,"['boy band', 'dance pop', 'pop', 'post-teen pop']"
+PUBLIC,4vxaQs6vK54nK89J1VtLex,['indie rockism']
+Ed Sheeran,6eUKZXaKkcviH0Ku9w2n3V,"['pop', 'uk pop']"
+Harrdy Sandhu,4ITkqBlf5eoVCOFwsJCnqo,"['desi pop', 'punjabi pop']"
+GKhan,3fxBst8oqDfPvHHrd9wEse,"['desi pop', 'punjabi pop']"
+Acoustic Brar,6TGg9uXF6VXPw8k2DnMQik,[]
+AP Dhillon,6LEG9Ld1aLImEFEVHdWNSB,"['punjabi hip hop', 'punjabi pop']"
+Ellie Goulding,0X2BH1fck6amBIoJhDVmmJ,"['dance pop', 'edm', 'electropop', 'indietronica', 'metropopolis', 'pop', 'uk pop']"
+Imagine Dragons,53XhwfbYqKCa1cC15pYq2q,"['modern rock', 'rock']"
+DJ Snake,540vIaP2JwjQb9dm3aArA4,"['dance pop', 'edm', 'electronic trap', 'pop', 'pop dance', 'pop rap']"
+Shawn Mendes,7n2wHs1TKAczGzO7Dd2rGr,"['canadian pop', 'dance pop', 'pop', 'viral pop']"
+Sia,5WUlDfRSoLAfcVSX1WnrxN,"['australian dance', 'australian pop', 'dance pop', 'pop']"
+Coldplay,4gzpq5DPGxSnKTe4SA8HAU,"['permanent wave', 'pop']"
+Calvin Harris,7CajNmpbOovFoOoasH2HaY,"['dance pop', 'edm', 'electro house', 'house', 'pop', 'progressive house', 'uk dance']"
+Pink Sweat$,1W7FNibLa0O0b572tB2w7t,"['bedroom soul', 'chill r&b', 'pop']"
+The Chainsmokers,69GGBxA162lTqCwzJG5jLp,"['dance pop', 'edm', 'electropop', 'pop', 'pop dance', 'tropical house']"
+Marshmello,64KEffDW9EtZ1y2vBYgq8T,"['brostep', 'dance pop', 'edm', 'pop', 'pop dance', 'progressive electro house']"
+Jaymes Young,6QrQ7OrISRYIfS5mtacaw2,"['modern rock', 'pop']"
+Justin Bieber,1uNFoZAHBGtllmzznpCI3s,"['canadian pop', 'pop']"
+Maroon 5,04gDigrS5kc9YWfZHwBETP,['pop']
+347aidan,0bBz5bRBkExaej2HxtVfCw,['sad rap']
+DHARIA,1psakk7GVUl85AnTEvwtk2,[]
+Witt Lowry,5ghnxpW47ojtLHHyTLdxdY,['pop rap']
+Russ,1z7b1Pr1rSlvWRzsW3HOrS,"['hawaiian hip hop', 'rap']"
+Gurnazar,682M6cmwGHOyAB1ZmPv38W,"['desi pop', 'punjabi pop']"
+Prabh Gill,4F5ZNBJDep3GTrMip2tpI4,"['desi hip hop', 'desi pop', 'punjabi pop']"
+B Praak,56SjZARoEvag3RoKWIb16j,"['desi pop', 'punjabi pop']"
+Akhil,6zZrFenNe3YPttxZsnQQs1,"['desi hip hop', 'desi pop', 'punjabi pop']"
+Mehmood J,4dDplWRph6eniqpE1VIwYF,[]
+Charlie Puth,6VuMaDnrHyPL1p4EHjYLi7,"['dance pop', 'pop', 'viral pop']"
+Johnny Orlando,6aX6KqXgEcARRHwvWxHcFW,"['canadian pop', 'pop']"
+Olivia O'Brien,1QRj3hoop9Mv5VvHQkwPEp,"['alt z', 'dance pop', 'electropop', 'pop', 'post-teen pop', 'rap']"
+Hailee Steinfeld,5p7f24Rk5HkUZsaS3BLG5F,"['dance pop', 'pop', 'post-teen pop']"
+Abhijeet,2ZRrPOjBIWoKK5rHedLijj,"['classic bollywood', 'desi pop', 'filmi', 'modern bollywood']"
+Alka Yagnik,3gBKY0y3dFFVRqicLnVZYz,"['classic bollywood', 'desi pop', 'filmi', 'hare krishna', 'modern bollywood']"
+Lata Mangeshkar,61JrslREXq98hurYL2hYoc,"['classic bollywood', 'desi pop', 'filmi', 'lata']"
+Yasser Desai,6RF8hEdlUKoLPQOHmBbHiM,"['desi pop', 'filmi', 'modern bollywood']"
+Kailash Kher,4oVMLzAqW6qhRpZWt8fNw4,"['desi hip hop', 'desi pop', 'filmi', 'indian folk', 'modern bollywood', 'sufi']"
+Atif Aslam,2oSONSC9zQ4UonDKnLqksx,"['classic pakistani pop', 'desi pop', 'filmi', 'modern bollywood', 'sufi']"
+Pritam,1wRPtKGflJrBx9BmLsSwlU,"['filmi', 'indian instrumental', 'modern bollywood']"
+Adele,4dpARuHxo51G3z768sgnrY,"['british soul', 'pop', 'pop soul', 'uk pop']"
+Babbal Rai,5LFXPuKD97Sp9qdkxYBfDn,"['desi pop', 'punjabi pop']"
+Ninja,3jsyANBBy6gOZUSQhiGclx,['comic']
+Prem Dhillon,6IP4VnqS1pOiQcPVP4zx0H,"['desi pop', 'punjabi pop']"
+Aatish,6w2tW2P6MoEdHEFAGUqrMa,[]
+Harnoor,4eB5clMaoi0cCRnCwLkkiS,"['desi pop', 'punjabi pop']"
+Sucha Yaar,3796Al8KerYiCPaOK1vHZJ,"['desi pop', 'punjabi pop']"
+Harman Hundal,2daDqAvmOL9Uxwv0cGvLXv,"['desi pop', 'punjabi pop']"
+Tegi Pannu,78sIlhMniFgXlOrNWnPtIl,"['desi pop', 'punjabi pop']"
+Shipra Goyal,7gOZcXPfLtLbFgUyHGV7cZ,[]
+Amrit Maan,7GgAwYJnBBFT1WogNWf0oj,"['desi hip hop', 'desi pop', 'punjabi pop']"
+Tanishk Bagchi,4f7KfxeHq9BiylGmyXepGt,"['desi pop', 'modern bollywood']"
+Maninder Buttar,2sN4fSzAm2rAL0HIurPCEM,"['desi hip hop', 'desi pop', 'punjabi pop']"
+Asees Kaur,1sVmXkzX2ukc6QvasrDBES,"['desi pop', 'filmi', 'modern bollywood']"
+Mission ISRO with Harsha Bhogle,7dcWg5dXOShjR4ACNd6kVc,[]
+Garry Sandhu,7M3xY5iHSzEtoL3FpqOD75,"['desi pop', 'punjabi pop']"
+Reggie Mills,3dQMGfODIABnUy8kNFXBim,['slowed and reverb']
+Romaana,424s65ZBz4Alruua67iFmO,[]
+The Landers,7KEQQy9VJpx2xaojUu2VTp,"['desi hip hop', 'desi pop', 'punjabi pop']"
+Stebin Ben,1UAzmnFgjizIDvtHvnCdEq,"['desi pop', 'modern bollywood']"
+Nikk,2kWeFaiHBskk8oqky3KHcR,"['alternative country', 'new americana', 'outlaw country']"
+Pav Dharia,0j2LQCxHNcJdkuJRa8KEp5,"['desi pop', 'punjabi pop']"
+Nimrat Khaira,0ea0y5ZxnN5TbEDzNtx5Fk,"['desi pop', 'punjabi pop']"
+Guri,5DHi2MeoRgAwPE0A0qwRMl,['punjabi hip hop']
+Happy Raikoti,6q71Xu33Q9DBhLFSUCLMUM,"['desi pop', 'punjabi pop']"
+Bilal Saeed,7hHDO4bJGlEaEHlY2lj1eZ,"['desi hip hop', 'desi pop', 'pakistani pop', 'punjabi pop']"
+Preetinder,1r8t9QJtZZL9OsSCG2qij9,[]
+Akhil Sachdeva,3TOhzLRYnkkul71yRBxIoM,"['desi pop', 'modern bollywood']"
+Ammy Virk,2RlWC7XKizSOsZ8F3uGi59,"['desi pop', 'punjabi pop']"
+Gajendra Verma,1yzgJmZf5CxtFfGfRFm4Si,"['desi pop', 'filmi', 'modern bollywood']"
+Vishal Mishra,5wJ1H6ud777odtZl5gG507,"['desi pop', 'modern bollywood']"
+Karan Randhawa,3mnR9SJ3hfV6EcrGKH44H9,"['desi pop', 'punjabi pop']"
+Rahul Jain,5tJx4B5oBr1LJkkHI8GFYX,"['desi pop', 'modern bollywood']"
+Inder Chahal,2ZzyxohC32i649slMn9Kgk,"['desi pop', 'punjabi pop']"
+Kay Vee Singh,52sAo4U0x2dfde5UYFDU2n,"['desi pop', 'punjabi pop']"
+Tulsi Kumar,0T1CMVkqffHlqEk4BcAph1,"['desi pop', 'filmi', 'modern bollywood']"
+Jassie Gill,3xZnxcyeC0vVaJvEA9VqrA,"['desi pop', 'punjabi pop']"
+Akull,1dqPqXbxxYtCtLbKeAN2Ss,"['desi hip hop', 'desi pop', 'punjabi pop']"
+MEDITATION SELF,3FVbcT2DnCA47g451Y7HKz,[]
+Karan Sehmbi,0wmFEqpoc2FgAv8IPtCLBW,"['desi pop', 'punjabi pop']"
+Sukhbir,7bcSOvqOKoyZqU41p5YuoJ,"['bhangra', 'desi hip hop', 'desi pop']"
+Badshah,0y59o4v8uw5crbN9M3JiL1,"['desi hip hop', 'desi pop', 'desi trap', 'haryanvi pop', 'modern bollywood']"
+Guru Randhawa,5rQoBDKFnd1n6BkdbgVaRL,"['desi hip hop', 'desi pop', 'modern bollywood']"
+Sachet Tandon,6WOdPJmexxFINcKMkP2jMG,"['desi pop', 'modern bollywood']"
+Dev Negi,04FsFHujpuqonrPXZrEJlK,"['desi pop', 'filmi', 'modern bollywood']"
+Arijit Singh,4YRxDV8wJFPHPTeXepOstw,"['desi pop', 'filmi', 'modern bollywood']"
+Anuradha Paudwal,4hkB2bR5ek6lJChj6aunCn,"['bhajan', 'classic bollywood', 'desi pop', 'filmi', 'ghazal', 'hare krishna', 'modern bollywood']"
+Faris Shafi,1LAdnp9wIdKClX7Cool0GD,"['desi hip hop', 'pakistani hip hop', 'pakistani pop']"
+Mehtab Virk,6npKsb0CeJMFX3FwjKybfD,[]
+Tarsem Jassar,67XQGZSc63AMXMINY8H7Fx,"['desi pop', 'punjabi pop']"
+Navjeet,6ti9mMVGU3e9MtpFh69Knr,"['desi pop', 'punjabi pop']"
+PLVTINUM,4V2pR2iSd1g0RZCglrP3jn,['alt z']
+Kurt Hugo Schneider,2BHswvFd8tMBizVWGcAMLm,"['post-teen pop', 'viral pop']"
+shy martin,7eCmccnRwPmRnWPw61x6jM,"['alt z', 'electropop', 'pop', 'post-teen pop', 'swedish electropop']"
+Alec Benjamin,5IH6FPUwQTxPSXurCrcIov,"['alt z', 'electropop', 'pop']"
+Taylor Swift,06HL4z0CvFAxyc27GXpf02,['pop']
+Amir Jamal,6fjlehmqzeqeDmRwnbvapd,[]
+Rahat Fateh Ali Khan,3OLGltG8UPIea8sA4w0yg0,"['classic pakistani pop', 'filmi', 'modern bollywood', 'qawwali', 'sufi']"
+Roop Kumar Rathod,03SZmfKAgYRQKUwy0EoJUa,"['classic bollywood', 'desi pop', 'filmi', 'modern bollywood', 'sufi']"
+Ali Pervez Mehdi,3HLmrqEDEHkQ7VFXwdKdKa,['pakistani indie']
+Kamal Khan,01DlVvmRpQFutrYzh0HmF8,"['desi pop', 'punjabi pop']"
+Shafqat Amanat Ali,5SuRAj1A9FEHj5NxS86YAm,"['classic pakistani pop', 'desi pop', 'filmi', 'modern bollywood', 'pakistani pop', 'sufi']"
+Shankar Mahadevan,1SJOL9HJ08YOn92lFcYf8a,"['filmi', 'modern bollywood']"
+Pranav Chandran,7IamkJSsxpZ8fi6FfSsWt2,[]
+A.R. Rahman,1mYsTxnqsietFxj1OgoGbG,"['filmi', 'modern bollywood']"
+Alan Walker,7vk5e3vY1uw9plTHJAMwjN,['electro house']
+Armin van Buuren,0SfsnGyD8FpIN4U4WCkBZ5,"['dutch trance', 'edm', 'pop dance', 'progressive house', 'trance']"
+Martin Garrix,60d24wfXkVzDSfLS6hyCjZ,"['dance pop', 'dutch edm', 'edm', 'electro house', 'pop', 'pop dance', 'progressive house', 'tropical house']"
+Raaban,4cSYNpczcvTUpnPMFDLsIc,[]
+GAYLE,2VSHKHBTiXWplO8lxcnUC9,['modern alternative pop']
+Tones And I,2NjfBq1NflQcKSeiDooVjY,"['australian pop', 'pop']"
+One Direction,4AK6F7OLvEQ5QYCBNiQWHq,"['boy band', 'pop', 'post-teen pop', 'talent show']"
+Selena Gomez,0C8ZW7ezQVs4URX5aX7Kqx,"['dance pop', 'pop', 'post-teen pop']"
+Ava Max,4npEfmQ6YuiwW1GpUmaq3F,"['dance pop', 'pop']"
+ILLENIUM,45eNHdiiabvmbp4erw26rg,"['edm', 'melodic dubstep', 'pop', 'pop dance', 'tropical house']"
+CLMD,7LiVklVR1325BIOqD9kykr,"['norwegian pop', 'pop dance']"
+Avicii,1vCWHaC5f2uS3yhpwWbIA6,"['dance pop', 'edm', 'pop', 'pop dance', 'pop rap']"
+Shaarib Toshi,0FJz7XR37hH69traaHLijA,"['desi pop', 'filmi', 'modern bollywood']"
+Starla Edney,6zFexQuZduSVGrLq28KhvY,['guam indie']
+Serena,6NPbeRsuxTEwa7lMDnZLLz,['guitarra mexicana']
+Shirley Setia,26ks59eSno7UlPCdljHQoI,"['desi pop', 'modern bollywood']"
+King,6QtgPSJPSzcnn7dPZ4VINp,['chicago rap']
+Singga Ft. Ellde Fazilka,6SZ6jRzG1OPBCjkzGtKW0G,"['desi pop', 'punjabi pop']"
+Nusrat Fateh Ali Khan,5HcunTidTUrOaf8V0iJcvl,"['indian fusion', 'pakistani folk', 'qawwali', 'sufi', 'world']"
+Sarmad Qadeer,6Eh92TEgarADIOborTEsDJ,"['desi hip hop', 'desi pop', 'pakistani pop']"
+Amrinder Gill,1x02ug1CLkx7mrQP9FRswh,"['bhangra', 'desi pop', 'punjabi pop']"
+Shae Gill,3bWIy9AUrQdiNeS62Bp3OP,[]
+Arjun,5tvfyAT4aOIOkumo6vw1yL,"['desi hip hop', 'desi pop']"
+Rochak Kohli,3dN9MQpjIyNxyeRfz4EDZe,"['desi pop', 'modern bollywood']"
+Ayushmann Khurrana,7qHsapL39aTQsPhixtzVvy,"['desi pop', 'filmi', 'modern bollywood']"
+Amit Trivedi,7HCqGPJcQTyGJ2yqntbuyr,"['desi pop', 'filmi', 'modern bollywood']"
+Shekhar Ravjiani,4xd7mLI7urqrxELaXhAvzw,"['desi pop', 'filmi', 'modern bollywood']"
+Tony Kakkar,0NZtn1Kyq08alpHCTRf3dv,"['desi pop', 'modern bollywood']"
+Gitaz Bindrakhia,7ezmUPZODtZdTK2Iu5TOVM,"['bhangra', 'desi hip hop', 'punjabi pop']"
+Kay v Singh,2KnNv9FWraSIxs0Sce2tdl,"['desi hip hop', 'desi pop', 'punjabi pop']"
+Desi Group,6x93MmBokl9aGi8KXjdjSY,[]
+TroyBoi,0tvpihdAsKiNnP6sWS3jUI,"['bass trap', 'edm', 'electro house', 'electronic trap']"
+The Fray,0zOcE3mg9nS6l3yxt1Y0bK,"['neo mellow', 'piano rock', 'pop', 'pop rock']"
+James Arthur,4IWBUUAFIplrNtaOHcJPRM,"['pop', 'talent show', 'uk pop']"
+Udit Narayan,70B80Lwx2sxti0M1Ng9e8K,"['chutney', 'classic bollywood', 'desi pop', 'filmi']"
+Idina Menzel,73Np75Wv2tju61Eo9Zw4IR,"['hollywood', 'show tunes']"
+Glee Cast,0SCbttzoZTnLFebDYmAWCm,"['glee club', 'hollywood', 'post-teen pop']"
+Zac Efron,6U1dBXJhC8gXFjamvFTmHg,"['hollywood', 'pop', 'post-teen pop', 'show tunes']"
+Kishore Kumar,0GF4shudTAFv8ak9eWdd4Y,"['classic bollywood', 'desi pop', 'filmi', 'modern bollywood']"
+Asha Bhosle,5as8A4G47Ohu9NSWs3Je8U,"['chutney', 'classic bollywood', 'desi pop', 'filmi']"
+Anushka Shahaney,6LCIgtcHUYILCEuCN6TSf6,"['desi pop', 'modern bollywood']"
+Karan Nawani,7rhiZksPc6NrFYY2x0iajU,[]
+Céline Dion,4S9EykWXhStSc15wEx8QFK,['canadian pop']
+Post Malone,246dkjvS1zLTtiykXe5h60,"['dfw rap', 'melodic rap', 'rap']"
+Gminxr,4vvW590Gq8dNWsP5BM9FkS,[]
+Gurinder Gill,5DHi2MeoRgAwPE0A0qwRMl,['punjabi hip hop']
+CKay,048LktY5zMnakWq7PTtFrz,['afro r&b']
+Loving Caliber,6psCCMHymYfQy6VvYRr6cs,['scandipop']
+Luis Fonsi,4V8Sr092TqfHkfAA5fXXqG,"['latin pop', 'puerto rican pop']"
+Vishal Dadlani,6CXEwIaXYfVJ84biCxqc9k,"['desi pop', 'filmi', 'modern bollywood']"
+Jaani,5gZhfbckaWo89OzDSk3gdT,['punjabi pop']
+Harvi,5rpl4dM4cZVFeseE6XT0AZ,['punjabi pop']
+Rajvir Jawanda,6TRcwPQiddMiQ6H22iwnoG,"['desi hip hop', 'desi pop', 'punjabi pop']"
+Ravneet,6HkQAVfiEMIx0yWyWOnVfq,"['desi pop', 'punjabi pop']"
+Raavi Gill,6Sm1K8bZDB62cHlJWrhzI5,[]
+Gurnam Bhullar,45LSiycLy1JsWUMObvPvpX,"['desi pop', 'punjabi pop']"
+Monty & Waris,2qTa0uEodCgzZzSYxhADZH,[]
+Manpreet Singh,0vqqFNT40Yi47BEE0XBkfg,[]
+Queen,1dfeR4HaWDbWqFHLkxsg1d,"['classic rock', 'glam rock', 'rock']"
+Sara Gurpal,3Agskd2jrYif8W7sDPPf0v,[]
+Jass Kanwar,2N5XRZ4Y7J5kkI2QKTIGfk,[]
+Guntaj,44wLsyV4oq5xoNZZA8STof,[]
+Mandy Moore,2LJxr7Pt3JnP60eLxwbDOu,"['dance pop', 'hollywood', 'post-teen pop']"
+Runbir,5noqLj1lBL60sqwh4ydVch,[]
+Dhami Dub,25vSOMtqWGPjXYxvJCBOSf,[]
+Deep Money,6t6D6drTfOF08Jp4w9wY2J,[]
+Mukesh,4etv0ut4ws0GbXBtolzf5e,"['classic bollywood', 'desi pop', 'filmi', 'ghazal']"
+Kumar Sanu,4K6blSRoklNdpw4mzLxwfn,"['classic bollywood', 'desi pop', 'filmi', 'modern bollywood']"
+Bharatt,2BNj9F2NMmWTRpO3S3C0dK,[]
+Lewis Capaldi,4GNC7GD6oZMSxPGyXy4MNB,"['pop', 'uk pop']"
+Olivia Rodrigo,1McMsnEElThX1knmY4oliG,['pop']
+Cody Francis,1RKbW3DVPPhWHNfParfJ32,[]
+Sasha Alex Sloan,4xnihxcoXWK3UqryOSnbw5,"['alt z', 'electropop', 'pop']"
+Boyce Avenue,7CQwac16i1W5ej8YpuL3dv,"['acoustic cover', 'neo mellow', 'viral pop']"
+Jeremy Zucker,3gIRvgZssIb9aiirIg0nI3,"['electropop', 'pop']"
+Kygo,23fqKkggKUBHNkbKtXEls4,"['edm', 'pop', 'pop dance', 'tropical house']"
+Fireboy DML,75VKfyoBlkmrJFDqo1o2VY,['afro dancehall']
+Neha Kakkar,5f4QpKfy7ptCHwTqspnSJI,"['desi pop', 'filmi', 'modern bollywood']"
+SULTAN UL QADRIA QAWWAL,5H9cLoe8sRnaCZ4yb8B3tO,[]
+Master Saleem,0BEr6nvOOHQMy53md08n9Y,"['filmi', 'sufi']"
+Owais Raza Qadri,1ymQAIQTQDQyskr4FEG0wO,['naat']
+Nardev Beniwal,3ulQxkRg02sq9QhoeOX7Zg,[]
+Iqbal Bano,7JxXeUTiGg0vr8SS2iS0F0,"['classic bollywood', 'classic pakistani pop', 'ghazal', 'pakistani pop', 'sufi']"
+Aditya A,4wwYGgSpeBtvk5WX6HBqzw,"['desi pop', 'hindi indie']"
+Falak Shabbir,0kmtdziYTHrKtoHlGElunM,[]
+Balraj,3Gay1KEB0WNEosR9hz4N0M,[]
+Vikonthebeat,1PjJ4dEbt9ZfhZmsZoEKph,[]
+Britney Spears,26dSoYclwsYLMAKD3tpOr4,"['dance pop', 'pop']"
+Lady Gaga,1HY2Jd0NmPuamShAr6KMms,"['art pop', 'dance pop', 'pop']"
+Ramana Lb,5ew8GeAFGEQIVO1BOEzNm5,[]
+Anuv Jain,4gdMJYnopf2nEUcanAwstx,"['hindi indie', 'indian indie', 'indian singer-songwriter']"
+Jyotica Tangri,5wQDQFm7Ku8WWGi5xqJ9lp,"['desi pop', 'modern bollywood']"
+Jasleen Royal,74OaRjmyh0XyRZsQQQ5l7c,"['desi pop', 'filmi', 'indian singer-songwriter', 'modern bollywood']"
+Doja Cat,5cj0lLjcoR7YOSnhnX0Po5,"['dance pop', 'pop']"
+Listening Time,7zXywunCUMDLIOlh0F6enD,[]
+Speak Better English with Harry,2oe6twSNfQ3EWRa3CAal4U,[]
+Venom Kul,5fwaejlOHVBAw1KhIPPaQe,"['black metal', 'black thrash', 'british black metal', 'death metal', 'hard rock', 'metal', 'nwobhm', 'old school thrash', 'speed metal', 'thrash metal']"
+Sunny,2lZkXWxkZsZzBocxMjN1or,"['alternative rock', 'emo', 'emo punk', 'midwest emo', 'post-hardcore']"
+Shankar-Ehsaan-Loy,0L5GV6LN8SWWUWIdBbTLTZ,"['desi pop', 'filmi', 'modern bollywood']"
+Mika Singh,5T2I75UlGBcWd5nVyfmL13,"['desi hip hop', 'desi pop', 'filmi', 'modern bollywood']"
+Jass Manak,2P9JaCtpbQSuZOgvtPrUJ8,"['desi hip hop', 'desi pop', 'punjabi pop']"
+Karan Aujla,6DARBhWbfcS9E4yJzcliqQ,"['desi hip hop', 'desi pop', 'punjabi pop']"
+Camila Cabello,4nDoRrQiYLoBzwC5BhVJzF,"['dance pop', 'pop', 'post-teen pop']"
+J Balvin,1vyhD5VmyZ7KMfW5gqLgo5,"['reggaeton', 'reggaeton colombiano', 'urbano latino']"
+Ghetts,7zJL978NtANOysfGY21ty6,"['grime', 'uk alternative hip hop', 'uk hip hop']"
+Tritonal,521qvhdobR0GzhvU6TFw76,"['edm', 'electro house', 'melodic dubstep', 'pop dance', 'pop edm', 'progressive electro house', 'progressive house', 'progressive trance', 'trance', 'tropical house', 'uplifting trance']"
+5 Seconds of Summer,5Rl15oVamLq7FbSb0NNBNy,"['boy band', 'dance pop', 'pop', 'post-teen pop']"
+Sam Smith,2wY79sveU1sp5g7SokKOiI,"['dance pop', 'pop', 'uk pop']"
+Dua Lipa,6M2wZ9GZgrQXHCFfjv46we,"['dance pop', 'pop', 'uk pop']"
+Wadali Brothers,293XZCVDsIPWXKfieaHLuX,"['qawwali', 'sufi']"
+Akhtar Rising Star,4GkzQfmnDhg61MpV8Mckgc,[]
+Gurujeet Singh,5ZmBk48Jyecq1pRDbHEMaS,[]
+Rakesh Maini,7pfPZ5tXoa5wB8F544YZIR,[]
+Kushagra,7Dfa2OiawjwGg3bbjNnarP,['desi pop']
+Vishal-Shekhar,6Mv8GjQa7LKUGCAqa9qqdb,"['desi pop', 'filmi', 'modern bollywood']"
+Sachin-Jigar,1mBydYMVBECdDmMfE2sEUO,"['desi pop', 'filmi', 'gujarati pop', 'modern bollywood']"
+KK,4fEkbug6kZzzJ8eYX6Kbbp,"['desi pop', 'filmi', 'modern bollywood']"
+Jack & Jack,1INuLZXjjVbcJRyWvD1iSq,"['dance pop', 'pop', 'post-teen pop', 'social media pop', 'teen pop']"
+Bruno Mars,0du5cEVh5yTK9QJze8zA0C,"['dance pop', 'pop']"
+Rihanna,5pKCCKE2ajJHZ9KAiaK11H,"['barbadian pop', 'dance pop', 'pop', 'urban contemporary']"
+Masego,3ycxRkcZ67ALN3GQJ57Vig,[]
+Mahalia,16rCzZOMQX7P8Kmn5YKexI,"['alternative r&b', 'indie anthem-folk', 'indie r&b', 'neo soul', 'pop', 'r&b', 'uk contemporary r&b']"
+RINI,2joIhhX3Feq47H4QXVDOr3,"['australian r&b', 'bedroom soul', 'chill r&b', 'pop']"
+Jassa Dhillon,2vJvM1hPBYqDoGBje0kRMd,"['desi pop', 'punjabi pop']"
+Positive Thinking Mind,79ck5e8MfF45wUIBzKwoag,[]
+Arjan Dhillon,64DvMieEUCdrYKmEIhDt8G,['punjabi pop']
+Olly Murs,3whuHq0yGx60atvA2RCVRW,"['dance pop', 'pop', 'pop dance', 'post-teen pop', 'talent show', 'uk pop']"
+Bret James,04NseFrg9L1BHlCQa8tiBl,[]
+Kyle Dion,5qfkUSH3ip5dD2eEPhjkT3,"['alternative r&b', 'chill r&b', 'indie r&b', 'indie soul', 'pop', 'r&b']"
+Daniel Caesar,20wkVLutqVOYrc0kxFs7rA,"['canadian contemporary r&b', 'pop', 'r&b']"
+SiR,4GQwgdcDQwqtcHICjUNndp,"['choral', 'classical performance', 'orchestral performance']"
+Lea Salonga,1GlMjIezcLwV3OFlX0uXOv,"['hollywood', 'movie tunes', 'show tunes', 'tagalog worship']"
+Donna Murphy,5BuTOT6mPoNZ5EmaPheBI9,"['disney', 'hollywood', 'movie tunes']"
+Timmies,1AUZYkS7eLmZUnBjQyJmwf,"['lo-fi chill', 'sad lo-fi']"
+G.R.L.,3Yl4nkmEa8BSuGWbwhdLDq,"['dance pop', 'girl group', 'pop', 'post-teen pop']"
+Jason Derulo,07YZf4WDAMNwqr4jfgOZ8y,"['dance pop', 'edm', 'pop', 'pop rap', 'post-teen pop']"
+Ella Henderson,7nDsS0l5ZAzMedVRKPP8F1,"['dance pop', 'pop', 'pop dance', 'talent show', 'tropical house', 'uk pop']"
+Clone Banda,5pc37fecXLdChXcNYBQSRW,[]
+CHANYEOL,6jV25rzTKQ2zMgrqHha1V5,['k-pop']
+Shane Filan,3Q2ya2vGeOhQ9CaF9wWNP6,['irish pop']
+Madilyn Bailey,0NxhAEPOSeCg6vypFr7yjU,['viral pop']
+Agust D,5RmQ8k4l3HZ8JoPb4mNsML,['k-rap']
+RM,2auC28zjQyVTsiZKNgPRGs,['k-rap']
+Talos,5pdzKTGQAcRcxDOfN4mXSc,"['cork indie', 'electropop', 'indie folk', 'irish indie', 'irish pop', 'vapor soul']"
+Vancouver Sleep Clinic,77BznF1Dr1k5KyEZ6Nn3jB,"['indie folk', 'vapor pop']"
+Cape Francis,6tnCYugShRsCcfHNGIUSq3,['brooklyn indie']
+Janet Suhh,5xhVZ42ABidt3DS9HJ5Uzm,['korean ost']
+The Midnight,2NFrAuh8RQdQoS7iYFbckw,"['nightrun', 'popwave']"
+Prateek Kuhad,0tC995Rfn9k2l7nqgCZsV7,"['folk-pop', 'hindi indie', 'indian singer-songwriter']"
+Greg Laswell,2Mf99N2VcDEcVuocyBLhyC,"['acoustic pop', 'neo mellow', 'pop rock', 'stomp and holler']"
+Andrew Belle,3UAk61T8PItbpgEi9u7ofY,"['acoustic pop', 'indie folk', 'neo mellow']"
+Juice WRLD,4MCBfE4596Uoi2O4DtmEMz,"['chicago rap', 'melodic rap']"
+Westlife,5Z1CCuBsyhEHngq3U5IraY,"['boy band', 'europop']"
+BTS,3Nrfpe0tUJi4K4DXYWgMUX,"['k-pop', 'k-pop boy group']"
+Jenn Johnson,0cuW2lF0YWb9VUyHOnvnsO,"['ccm', 'deep ccm', 'world worship']"
+Ribhavv,01nF5O4sTf8RDuec39ZPnp,['new delhi indie']
+OAFF,2k66ibJfgMigF5QWqUgLyR,"['desi pop', 'indian indie', 'modern bollywood']"
+The Yellow Diary,6xlrAAgxcRlgCXnbg2hcFc,"['desi hip hop', 'desi pop', 'indian indie', 'indian rock', 'mumbai indie', 'pakistani pop']"
+Tanmaya Bhatnagar,1kzKlwoZunQPBWRLCZ7ZvS,"['indian indie', 'indian singer-songwriter']"
+Deepak Rathore Project,1VFIeAFbzMVHmvGQtfE6OI,['indian indie']
+Dj Vicky Belgaum,3iZYzGUWgZKf8yoKLWKlxy,['indian lo-fi']
+Hrithik Roshan,5TWDvkVWG1vayan1QA9q8U,[]
+Rex Orange County,7pbDxGE6nQSZVfiFdq9lOL,"['bedroom pop', 'pop']"
+Daniela Andrade,0WfaItAbs4vlgIA1cuqGtJ,"['canadian contemporary r&b', 'folk-pop']"
+Shail Hada,73oabrcxZFkgjgeJBP5uJC,"['filmi', 'modern bollywood']"
+Calm it Down,3KXzL1ib42FoA6WoYn5LrI,[]
+V,4ytkhMSAnrDP8XzRNlw9FS,"['adult standards', 'jazz trio']"
+Danny Gokey,5Yu3b48Y29bZlI1cLPOZJz,"['ccm', 'idol']"
+Dan + Shay,7z5WFjZAIYejWy0NI5lv4T,"['contemporary country', 'country', 'country road', 'pop']"
+CHEN,37230BxxYs9ksS7OkZw3IU,['reggaeton flow']
+ZAYN,5ZsFI1h6hIdQRw2ti0hz81,"['dance pop', 'pop', 'post-teen pop', 'uk pop']"
+David Guetta,1Cs0zKBU1kc0i8ypK3B9ai,"['big room', 'dance pop', 'edm', 'pop', 'pop dance']"
+Cartoon,2sf28o6euxEDpYkG9dMtuM,['gaming edm']
+Ruel,5xkAtLTf309LAGZTbvULBn,"['australian alternative pop', 'dance pop', 'electropop', 'pop', 'post-teen pop']"
+Khalid,6LuN9FCkKOj5PcnpouEgny,"['pop', 'pop r&b']"
+gnash,3iri9nBFs9e4wN7PLIetAw,['pop']
+slchld,33crDRqANd3NQHJagZkQ7O,"['canadian contemporary r&b', 'chill r&b', 'pop']"
+SULLI,1CXuuw8HJhyN80HlNzvL1e,"['dubstep', 'edm', 'electro house', 'melodic dubstep']"
+Madhur Sharma,2kfi47LWmlXzQ3p3kWonfQ,"['desi pop', 'modern bollywood']"
+Azhar Abbas,7hlaonFLy7SDDTzmQTK31m,[]
+Euphonious,76OvECLAtzBQnPw2pBmKuN,[]
+Bimal Bhanot,2tLjmV1Hd3cP1H6zVWQuqU,[]
+Ashwin Adwani,5kiwICyQNDmCtwOPLvgY04,['indian singer-songwriter']
+Sky-P,1xWw0nByTzMoKNEfveHwTp,[]
+yogita,7HzJcu2wULiol2dXlEC9gg,['marathi pop']
+Akbar Alam,1Cv3ReyTQ87n3dYllirYy9,[]
+Veeswaas,393OQi0BUT25ZxUWmMPoNA,[]
+Raj Barman,5qERXbPWPdUePjrAW00vuU,"['bangla pop', 'desi pop', 'filmi', 'modern bollywood']"
+Javed-Mohsin,2zvJLk0gTH7r7A5Q6X5Bq8,"['desi pop', 'modern bollywood']"
+Jubin Nautiyal,1tqysapcCh1lWEAc9dIFpa,"['desi pop', 'filmi', 'hare krishna', 'modern bollywood']"
+Yashal Shahid,3ILK3wZ5nqQr7O79aF8G53,['pakistani pop']
+JalRaj,5fuBZptKdXWB7NLT2eDwaT,"['desi pop', 'modern bollywood']"
+Sachet-Parampara,1SyKki7JI1AZNKwgNMkn25,"['desi pop', 'modern bollywood']"
+Amrita Singh,5ZVycSnntFQRyXFpO6TdsU,[]
+Goldie Sohel,5Y9YGMxRoQYfJFj4kJ9TVv,[]
+Khudgharz Official,6L2yfQRH3GMXE6WutO0CD8,[]
+Himesh Reshammiya,0sSxphmGskGCKlwB9xa6WU,"['desi pop', 'filmi', 'modern bollywood']"
+Kunal Ganjawala,3t4P7aXVor3NxlJPZxLzOQ,"['desi pop', 'filmi', 'modern bollywood']"
+Mustafa Zahid,71oGOxg5ez52Hh1Ye41A98,"['desi hip hop', 'desi pop', 'filmi', 'modern bollywood', 'pakistani pop']"
+Sonu Nigam,1dVygo6tRFXC8CSWURQJq2,"['desi pop', 'filmi', 'modern bollywood']"
+Mohammed Rafi,0gXDpqwYNDODn7fB0RDN8J,"['classic bollywood', 'desi pop', 'filmi', 'sufi']"
+Grewal,6Wg3YW7eun3woBKYL8jJT6,"['desi pop', 'punjabi pop']"
+Diljit Dosanjh,2FKWNmZWDBZR4dE5KX4plR,"['desi pop', 'filmi', 'modern bollywood']"
+Satinder Sartaaj,4rgw8A5vcYinpZLDKHrEdV,"['desi hip hop', 'desi pop', 'punjabi pop', 'sufi']"
+Maren Morris,6WY7D3jk8zTrHtmkqqo5GI,"['contemporary country', 'country', 'pop', 'texas country']"
+Troye Sivan,3WGpXCj9YhhfX11TToZcXP,"['australian pop', 'dance pop', 'pop', 'viral pop']"
+Duncan Laurence,3klZnJvYGIbWritVwQD434,['dutch pop']
+Billie Eilish,6qqNVTkY8uBg9cP3Jd7DAH,"['art pop', 'electropop', 'pop']"
+Alesso,4AVFqumd2ogHFlRbKIjp1t,"['dance pop', 'edm', 'electro house', 'pop', 'pop dance', 'tropical house']"
+OneRepublic,5Pwc4xIPtQLFEnJriah9YJ,"['piano rock', 'pop']"
+Bobby-Imran,5HgB3r11CTMckYeopesztP,['modern bollywood']
+Mohan Kannan,0iqFHwswV50GDerCAjulem,['modern bollywood']
+Suzzane,6uOKeyhLuByJRekqUVSkwW,"['desi pop', 'modern bollywood']"
+Abhay Rustum Sopori,3NYtwolj6juXjj5RumJaRe,[]
+Jawad Ahmad,2gXOOKY8mmJG6iwHrTq9gp,"['classic pakistani pop', 'modern bollywood', 'pakistani pop']"
+Jeet Gannguli,2kkQthS9OLpK4UqNWYqoVl,"['desi pop', 'filmi', 'modern bollywood']"
+Farhan Akhtar,0XL6ie7a0NY5FM05b9Rn5L,"['desi pop', 'filmi', 'modern bollywood']"
+Christina Perri,7H55rcKCfwqkyDFH9wpKM6,"['dance pop', 'neo mellow', 'pop', 'pop rock', 'post-teen pop']"
+Little Mix,3e7awlrlDSwF3iM0WBjGMp,"['dance pop', 'girl group', 'pop', 'post-teen pop', 'talent show', 'uk pop']"
+John Legend,5y2Xq6xcjJb2jVM54GHK3t,"['neo soul', 'pop', 'pop soul', 'r&b', 'urban contemporary']"
+GreatAudioRecorded,6KjtrCRLDKihttXM81OndD,[]
+JP Saxe,66W9LaWS0DPdL7Sz8iYGYe,"['alt z', 'canadian contemporary r&b', 'neo mellow', 'pop']"
+Dr Zeus,1zrFFDzoE9XXyjEqqgDpMm,"['bhangra', 'desi hip hop', 'desi pop', 'punjabi hip hop', 'punjabi pop']"
+Harry Styles,6KImCVD70vtIoJWnq6nGn3,['pop']
+Amaarae,21UPYSRWFKwtqvSAnFnSvS,"['afro r&b', 'alternative r&b', 'ghanaian alternative', 'ghanaian pop']"
+The Weeknd,1Xyo4u8uXC1ZmMpatF05PJ,"['canadian contemporary r&b', 'canadian pop', 'pop']"
+Thomas Rhett,6x2LnllRG5uGarZMsD4iO8,"['contemporary country', 'country', 'country road']"
+Satbir Aujla,6JuBBw98XzwRZ6KvN1PpLy,"['desi pop', 'punjabi pop']"
+Tanish Mittal,0vrOKS3DCqlyRHmdx068n4,['indian lo-fi']
+Aditya Rikhari,3ozYqVCLohfpXIhalkhM8D,"['desi pop', 'modern bollywood']"
+Vilen,5gVozagAcRKYCeAVnlC3Nk,"['desi hip hop', 'desi pop', 'modern bollywood']"
+Sunidhi Chauhan,3eDT9fwXKuHWFvgZaaYC5v,"['desi pop', 'filmi', 'modern bollywood', 'sufi']"
+KSW,2GhRzK7XzixKuZYEEfUkBR,['indian lo-fi']
+Dikshant,0kTAB5SUakX286t6K7J3QR,[]
+Neeti Mohan,3ZxZ03fj3tXBZHZWzvaLSM,"['desi pop', 'filmi', 'modern bollywood']"
+Munn,3cKS6z9VNfN9u5ZyNiph4l,['alt z']
+Rosie Darling,6kDXH8d9LugUAsHIozzDAI,"['alt z', 'pop']"
+Ber,6uRJnvQ3f8whVnmeoecv5Z,"['german orchestra', 'orchestra']"
+Caleb Hearn,0EiNdCUwM4B5GkTInLAyuj,['alt z']
+Kaka,1Oh5bPXjw5jreVFhKc4jux,['desi pop']
+Abdullah Siddiqui,3PbkSdpJnYRF18jau74b7R,"['pakistani indie', 'pakistani pop']"
+DJ Notorious,6UXtWzEh7DSBepGmaq7tXk,['desi pop']
+Asim Azhar,1ZChN8G1Y7CJ0TXbrvblwS,"['desi pop', 'modern bollywood', 'pakistani pop']"
+VIBIE,1btklM4yoTaKiVjLodLrOh,['indian lo-fi']
+Sanjay S Yadav,6rgc6AL16aoiwofPPzsoLU,"['desi pop', 'indian lo-fi']"
+Rashid Ali,281Vp9LDrWkHMHQzfQHWCt,"['filmi', 'modern bollywood']"
+Dev Bhawsar,6n44VlBKxm6HaDN7lnalf0,['indian lo-fi']
+Anthony de la Torre,6dxbsVBLykNgOpP0DxjMR4,[]
+Adam Turley,0clfID6QXqVAUhgm7QHpwF,"['alt z', 'pop edm']"
+Tanzeel Khan,64Bnlany1OG6esdJyOxyey,"['desi pop', 'modern bollywood']"
+Ajay Gogavale,0vkpFzbSTmwPuGGnhsblFI,"['desi pop', 'filmi', 'modern bollywood']"
+Runa,7yPbJOX7olhT3ynAyuj3Zl,"['contemporary country', 'country', 'country pop']"
+Jasmine Sandlas,0mJDQBWytBhOh5JB1DOQ1c,"['desi pop', 'punjabi pop']"
+Jordan Sandhu,3TozxPbDes76aGFdfv7PMv,"['desi pop', 'punjabi pop']"
+Silk City,2X97ZAqRKRMYFIDqtvGgGc,['edm']
+S. P. Balasubrahmanyam,2ae6PxICSOZHvjqiCcgon8,['filmi']
+Abhay Jodhpurkar,27rK4pP0VMqWiRe7pamKe5,['modern bollywood']
+Darshan Raval,2GoeZ0qOTt6kjsWW4eA6LS,"['desi pop', 'gujarati pop', 'modern bollywood']"
+Dhrriti Saharan,3CfM61zeuztKppkmj0CggJ,[]
+Sơn Tùng M-TP,5dfZ5uSmzR7VQK0udbAVpf,"['v-pop', 'vietnamese melodic rap']"
+DJ Flow,3MP2WJg5D3bmH5Mz2scPF8,[]
+Benny Dayal,61if35zz1W11GejEkxTLEQ,"['desi hip hop', 'desi pop', 'filmi', 'modern bollywood']"
+Jagjit Singh,2ijWbN5KykTYiBoVmhzCTU,"['classic bollywood', 'desi pop', 'filmi', 'ghazal', 'hare krishna', 'sufi']"
+Arko,6jf2eKjiPT6P18RbOSLzf0,"['desi pop', 'filmi', 'modern bollywood']"
+Ami Mishra,5ugsiK49gIkIVh8U93EO0z,"['desi pop', 'modern bollywood']"
+Kavita Seth,3nQ125TJobosBH446Dsvvv,"['filmi', 'hindi indie', 'modern bollywood', 'sufi']"
+Big Dhillon,40pqZrXRfMPRJoV9BLy7gy,[]
+Mani Dhillon,1bLUXno6efJHG3XauV0O8a,[]
+David Singh,7e3nNU9p4DAcTkXbM9kB05,[]
+Miss Pooja,0DyXyd0D6fMUsuD6yONANx,"['desi hip hop', 'desi pop', 'punjabi pop']"
+Sunil Kamath,5iA6cWdcxhEFUZvx39ClfI,[]
+Millind Gaba,7hVmdlsJp0E2WQIvVl8ngN,"['desi pop', 'modern bollywood', 'punjabi pop']"
+Ranjit Bawa,6pU5oz09VUYtnFTd4P1Mxn,"['desi pop', 'punjabi pop']"
+Anu Amanat,6wu0KRwDO88PuEEpib4pQh,['indian lo-fi']
+JERRY,7wOZy3KdFVVINgNFFxkxwO,"['puerto rican pop', 'salsa', 'salsa puertorriquena', 'tropical']"
+Pratsofficial,29ggvWc5EMcSk5RLQ5aXHr,"['desi pop', 'himachali pop', 'modern bollywood']"
+Amaal Mallik,76fuWYgIf3TVIopTs3vaJ6,"['desi pop', 'modern bollywood']"
+Sohail Rana,3qOEJ6A1UQYy0qViPHHXxF,['canadian soundtrack']
+Farida Khanum,07g02xbfLHmRdZaz5NAWru,"['classic bollywood', 'classic pakistani pop', 'filmi', 'ghazal', 'pakistani pop', 'sufi']"
+Namita Choudhary,3OzUySgSF8QxZScB0RxDCB,['modern bollywood']
+Alexander Rybak,3LLNDXrxL4uxXtnUJS5XWM,['eurovision']
+Glass Animals,4yvcSjfu4PC0CYQyLy4wSq,"['gauze pop', 'indietronica', 'shiver pop']"
+Shantanu Avinashi,64BRoUsqACYpTLeRwyxyIx,"['desi pop', 'indian lo-fi', 'modern bollywood']"
+Jammy Weirdo,64QCKFA8kD38Waf5EXbSRp,['indian lo-fi']
+Harshdeep Kaur,3xU8YsNNkmWSPewlB18NUz,"['desi pop', 'filmi', 'modern bollywood', 'sufi']"
+Dk Bohat,3WGACJloUzMYHxkcHX0rl1,[]
+Sajjan Adeeb,10cESI2qXWXWxfkeomFOON,"['desi pop', 'punjabi pop']"
+Bazzi,4GvEc3ANtPPjt1ZJllr5Zl,"['dance pop', 'electropop', 'pop']"
+Pharrell Williams,2RdwBSPQiwcmiDo9kixcl8,"['hip hop', 'pop', 'pop rap']"
+WORMONO,5osbiefpwljgv3pRQNmbFO,['indian lo-fi']
+Suzonn,3xZ9z6k4Suc2O8cAiwMt7h,"['indian indie', 'indian singer-songwriter']"
+Swattrex,1c4IXYT2idOski3WEtfJpW,['indian lo-fi']
+Last Minute India,6yi4BexeHDzQeuiDzXqTcg,['indian indie']
+Bombay Jayashri,5OTt6O4Q22YsqZDaWV6FqC,"['carnatic', 'carnatic vocal', 'filmi', 'indian classical', 'tamil pop']"
+Be Happy And Share Happiness,1uVBFT8F6ptXvKtKKkUa5x,[]
+Yeh Kaha Aa Gye Hum,,
+Manan Bhardwaj,3pQ4aA7dkolyjUAMrVScgh,"['desi pop', 'modern bollywood']"
+Neeraj Shridhar,3tHD07u1ON4uHxmnT9rwqZ,"['desi hip hop', 'desi pop', 'filmi', 'modern bollywood']"
+Ruth B.,2WzaAvm2bBCf4pEhyuDgCY,"['alt z', 'canadian contemporary r&b', 'canadian pop', 'pop']"
+Mashonda,5SyhqYagv3kA1s7xbI8QGi,"['hip pop', 'r&b', 'urban contemporary']"
+Halsey,26VFTg2z8YR0cCuwLzESi2,"['dance pop', 'electropop', 'etherpop', 'indie poptimism', 'pop']"
+INDie EDMer,3ha8l1xb9ypBWOZcpWQHGc,[]
+Rashid Khan,1cw8NspBF8JctQm5rpn3pv,"['filmi', 'ghazal', 'hindustani classical', 'hindustani vocal', 'indian classical', 'khayal']"
+Nitin Shukla,20YfM15fU24Wtzq7D25LTb,['indian lo-fi']
+Pragati Naagar,1OXD3k8dCc3d4hPfAyaHim,[]
+Burhan Laskar,4wOEkf10AAMKx0yCGEEnxm,['turkish jazz']
+The Local Train,7b6Ui7JVaBDEfZB9k6nHL0,"['assamese pop', 'desi hip hop', 'desi pop', 'filmi', 'hindi indie', 'indian indie', 'indian rock', 'new delhi indie']"
+Kina,4qIVPF0s71ZYW3qzhu5GkF,['sad lo-fi']
+Ryan Mack,5LGo1zHegJTWzqVXgeNplt,"['alt z', 'irish pop', 'sad rap']"
+Manas Roy,3R2qNg70D86iZywZ35avba,['indian lo-fi']
+Alessia Cara,2wUjUUtkb5lvLKcGKsKqsR,"['canadian contemporary r&b', 'canadian pop', 'dance pop', 'electropop', 'pop', 'post-teen pop']"
+benny blanco,5CiGnKThu5ctn9pBxv7DGa,"['dance pop', 'edm', 'electropop', 'pop', 'pop rap']"
+Ariana Grande,66CXWjxzNUsdJxJ2JdwvnR,"['dance pop', 'pop']"
+Calum Scott,6ydoSd3N2mwgwBHtF6K7eX,"['neo mellow', 'pop']"
+Finding Hope,0QGDb8TBWIT06W4BoyAggg,"['chill r&b', 'pop']"
+Faridkot,6JUEjbhKiAZFmMRrudNHgL,"['hindi indie', 'indian folk', 'indian indie', 'indian rock', 'new delhi indie']"
+Rishabh MZC,2b5JOdK2tt39N9oL49p40R,[]
+Aamir Khan,0Tn7oEmE8zDUR340Doo9zl,['classic bollywood']
+Doctor Flame ,5DZr9dQj9KPd62WuMeIPqK,"['electronica', 'hip-hop experimental', 'laboratorio', 'new french touch', 'nu jazz', 'trip hop']"
+Susan Egan,7CckquWatDQSr3PFKkjM8M,"['broadway', 'hollywood', 'movie tunes', 'show tunes']"
+SongsForJacques,4tMm1dU6Gn04VAZ9ClHcIZ,"['atl hip hop', 'pop r&b', 'pop rap', 'r&b', 'rap', 'urban contemporary']"
+Davinder Bhatti,28FX3Up2MflmFQI2NPkjsW,[]
+Amber Vashisht,5oNkPMlb4zyhQ8G5onn0Et,[]
+Jessie J,2gsggkzM5R49q6jpPvazou,"['dance pop', 'pop', 'pop rap', 'post-teen pop']"
+Mohammed Irfan,6QtJ6BVdj43aDpgjnVp2tY,"['desi pop', 'filmi', 'modern bollywood']"
+Armaan Malik,4IKVDbCSBTxBeAsMKjAuTs,"['desi pop', 'filmi', 'modern bollywood']"
+joyvegas,5njXNGSjQ6qDrWdMygu93M,['indian lo-fi']
+Falak Shabir,5ukKEZTqhAC7zXPLowAJuk,"['modern bollywood', 'pakistani pop']"
+Vincent Boral,3oHVLbNqBovgRlpW45SjVU,"['desi pop', 'indian lo-fi', 'modern bollywood']"
+Visual Chinmay,6OQun0qxoOjStLIqxcmYK6,['indian lo-fi']
+Poorvesh Dave,3U4ZRBChsjzagb4wcEXutU,['indian lo-fi']
+Kushagra Krishnatrey,7Dfa2OiawjwGg3bbjNnarP,['desi pop']
+Prashant Katheriya,1wmoF73GhlylxwAbn9YGYr,"['desi pop', 'modern bollywood']"
+Tashif,08tfDO4dSrwxax35a3HIMC,['japanese soundtrack']
+Vicky Singh,64GYCUu76fTJnXNyNTT3Hx,['desi pop']
+Coffeekids,5E2SH0HRkFmN5yp1BVumH5,['indian lo-fi']
+Arnab Maity,5EISGLKYtFDJzae6rtMhKU,[]
+Vismay Patel,43jHbOAD9UtOEO1la8CVHs,"['assamese pop', 'desi pop', 'indian indie', 'indian singer-songwriter', 'modern bollywood']"
+Lofiwaala,77OAkisovOFmVAGes61rgs,['indian lo-fi']
+It's DPK,72alqzixeOnANB0JmmYUoi,['indian lo-fi']
+Nabeel Shaukat Ali,1NkQbSzN7LhkURNg2ChZMp,['pakistani pop']
+Raashi Sood,0ZEiDnkNsdY6IXWUjWuBU2,"['desi hip hop', 'desi pop']"
+Amantej Hundal,28kGdf2ant8i73Fab2F7xq,"['desi hip hop', 'desi pop', 'punjabi pop']"
+Lopon Sukhdii,1WfhMDY9H3vpbzBxyT0DGm,[]
+Abraam,063Vp9es6lLAbFUDtIAkFD,"['corrido', 'corridos tumbados', 'musica mexicana', 'nueva musica mexicana', 'sad sierreno', 'sierreno']"
+Minda,7MSns7VCEysJJhcp67gvtZ,['anime']
+Eduardo XD,0h2mjyHxIUJ9QIfJCOHJpX,"['slowed and reverb', 'viral rap']"
+love shayla,0SLChsZNfgO7zbH3gevHvE,['slowed and reverb']
+Joongle,5NChOzODHzPYNB4iho8Zcy,[]
+unsterblich,2a9FuYFAa9KGJVuDjI7WOy,[]
+Sad Bart Hours,4IsfT2T6bYdVaNZeN8VaQM,['slowed and reverb']
+You Forever,0pFHZ5Jjpb8Lx7Q7uW9a1v,[]
+Eduardo Luzquiños,1dXyyDButMVteLKOOVqz6Z,['viral rap']
+FiloChill,3dwVndIdsi5UVhJjFstRUX,['slowed and reverb']
+DancingRoom,4Qt4osuhqHKfSfpB31r4qN,['slowed and reverb']
+8D Tunes,5fOzKeaM5PmZ2BcKKAtFeq,['8d']
+Kirub,43lUFmT9yMM9uQyZfo47JC,['slowed and reverb']
+Faynix,7rNUxGFTZ0EyaoQ3ZH5aDj,[]
+Gudrapz,2r6ZdPP9Vcq6notJH1VdP2,[]
+Harmless,5dYGaoCO0iaUZKfl9K8Gtd,['modern dream pop']
+she devil,4jrwvwAzzMNWrnQemTy711,[]
+Neon361,1GMcskaP7weF0mypIi2UIA,[]
+Hentai Xander,7J67YP5oiObsKJkC7mrRWW,[]
+Yusei,0K3Jtj8PRdPfgYLua8X1dv,"['lo-fi chill', 'sad lo-fi', 'slowed and reverb']"
+Slowed Music,2jBDqHF3RpDEUZdn4jaOYh,[]
+BerthCh,0KoNM5sJYGdFYaP9Sw20On,[]
+Sharry Mann,5azWSYXVoLKYKHlR5zNJ7i,"['desi pop', 'punjabi pop']"
+Kshitij Vishwakarma,7qV0MH8s4k7iDMuYVQzGvi,[]
+Mani Sekhon,3XPVJDVNmbOddwsJiAA2Uy,[]
+Marshlemon,25LqOyhsRAI0lPA41bRr4W,[]
+Shreya Ghoshal,0oOet2f43PA68X5RxKobEy,"['desi pop', 'filmi', 'modern bollywood']"
+Meghan Trainor,6JL8zeS1NmiOftqZTRgdTz,"['dance pop', 'hip pop', 'pop']"
+Romy,3X2DdnmoANw8Rg8luHyZQb,[]
+Sara Khan,5zviixHtVO7u0Cfc3LtbhW,[]
+Mamba,2T1aUibqR2QC2sINIDQOAK,['reggaeton flow']
+Gravity Music India,0TDjpai8y4gg0K5OCEYpFx,[]
+Nostalofi Vibes,7rDUs601MBKwvJudRKJe7n,[]
+Arshman Khan,7Gg4O0kIXEu2DYgycQrz8x,[]
+Bablu Sodhi,4IOe98zCwlcKtXOekm69Ee,[]
+Ronaq,6W9RUw7xnNRYtgh8dimg7L,"['contemporary r&b', 'funk', 'neo soul', 'quiet storm', 'r&b', 'urban contemporary']"
+Sachin Seth,11HpSnDs7Rof47FFe4uG5q,[]
+prem dhilln,6IP4VnqS1pOiQcPVP4zx0H,"['desi pop', 'punjabi pop']"
+Shera Dhaliwal,6hUN0spqkOvBajJ8J2nUc5,[]
+Ganya Saluja,5jQmCoymJw2Ijzsq8wjPC5,[]
+Unknown Artist,74Ch11L4833kZ9VfyziR3K,[]
+Arpan Bawa,5WV0Nn0dUR0wClQB1TETco,[]
+Aditya Kumar,4frYdwmZRdSHIVELtSzLMu,"['desi pop', 'modern bollywood']"
+Lisa Mishra,418X5slNWlJwym4x3Oq3Cs,['desi pop']
+Joji,3MZsBdqDrRTJihTHQrO6Dq,['viral pop']
+Tommy Lefroy,3vldh5Ceynytj6Iglw4haP,"['alt z', 'indie pop', 'modern indie folk']"
+Focus/Study Music,343WUTtXN19nq6GTjrPhSr,[]
+Sara Kays,7Lk9V7E1u5gqSHmtcKlOqH,"['alt z', 'gen z singer-songwriter', 'indie pop', 'modern indie pop', 'pop']"
+Anna Clendening,2y9j8qUwBMGPYPQJJxmYzD,"['alt z', 'pop', 'post-teen pop', 'social media pop']"
+Tate McRae,45dkTj5sMRSjrmBSBeiHym,['pop']
+Anson Seabra,2jHp7gQArCQrlMvdrIVFCg,"['alt z', 'gen z singer-songwriter', 'pop']"
+Sophie Pecora,1djGyQAjyVQh0HWCYMHCcB,"['alt z', 'gen z singer-songwriter']"
+Chloe George,5VZn4mB8pS40aE0kujdX2Y,[]
+Paravi,3hu0zovv9ZERrUy09lIsTH,['modern indie pop']
+Julia Michaels,0ZED1XzwlLHW4ZaG4lOT6m,"['alt z', 'dance pop', 'electropop', 'pop', 'post-teen pop']"
+Passenger,0gadJ2b9A4SKsB1RFkBb66,"['folk-pop', 'neo mellow']"
+Chord Overstreet,5D3muNJhYYunbRkh3FKgX0,['acoustic pop']
+DaniLeigh,0XIKGBo9PnK1ApI5tZA60d,"['pop', 'pop r&b', 'pop rap', 'r&b', 'rap', 'rap latina', 'urban contemporary']"
+Summer Walker,57LYzLEk2LcFghVwuWbcuS,"['pop', 'r&b', 'rap']"
+Powfu,6bmlMHgSheBauioMgKv2tn,"['sad lo-fi', 'sad rap']"
+Birdy,2WX2uTcsvV5OnS0inACecP,['pop']
+Amit Kumar,5l1aGNGCRGomCMHVufh6xC,"['classic bollywood', 'filmi', 'ghazal']"
+Samrat Chatterjee,7tgKNYAFYlZuoOkTkuw66a,[]
+Debolinaa Nandy,40K2sYgvoqipfu0hM3c1Uc,[]
+Jyoti Nooran,7ezZ4ix4QBrKkvxanGClFB,['modern bollywood']
+Ezu,2r3HmBK84dHpMW5WFNdWNP,"['desi hip hop', 'desi pop']"
+Afsana Khan,4z0z82pXirH1TrygipQlOo,['desi pop']
+Sunanda Sharma,7AKO4PWJ6ToZVUfA5xmsIY,"['desi hip hop', 'desi pop', 'modern bollywood', 'punjabi pop']"
+Sidhu Moose Wala,4PULA4EFzYTrxYvOVlwpiQ,"['desi hip hop', 'pakistani hip hop', 'punjabi hip hop']"
+Gurpreet Chattha,2SUz5QWoJ2tkkFbTO1qvSm,[]
+Shree Brar,5Dr08SCxyjTmDovDDRZCa2,['punjabi pop']
+Gippy Grewal,5kvGYraWFlXs2Jbt1Kphn8,"['bhangra', 'desi pop', 'punjabi pop']"
+Shivjot,1CluO4PWr2z45POcQ92ZPs,"['desi pop', 'punjabi pop']"
+Nirvair Pannu,4vIsAZx8AolYa6paJphDGY,"['desi pop', 'punjabi pop']"
+Ajit chhaniwala,3Ai8vgtQ3MxZ1dgrfBrALi,[]
+Preet Sukh,17gMznd5zN6OhjvnnX0CLa,[]
+Mannat Noor,0TxBLummgAxRkxn21HrLDp,['punjabi pop']
+Abhishek Arora,2FV0sdO6uDLDe73NGLUQQq,['modern bollywood']
+Renuka Arun,7vJRDw4tsuuQD9vqJZQRUv,['mollywood']
+Jeffrick,5HD6kCaoqjrDx8W5ES0YC3,[]
+Hashmat Sultana,6ez5nZKCRO9HY08CWrHZok,[]
+Pranish VP,2RXTjV42UE6r9i5izVsiKa,['indian lo-fi']
+Director Fizzix,6IF6F1mkBk8pUXxtcleKzV,[]
+Jitz jz,35jfEFdc4HA5X0C348irt8,['indian lo-fi']
+Jonita Gandhi,00sCATpEvwH48ays7PlQFU,['modern bollywood']
+Manni Sandhu,3IzepIGEFUSFFnuIVGwZDS,"['bhangra', 'desi hip hop', 'desi pop', 'punjabi pop']"
+Anumita Nadesan,1nmKYy6efdYl8sIcT0gCLJ,[]
+Vishal Bhardwaj,1JdHoZwkwOmX2Pl2iTwnzc,"['classic bollywood', 'classic pakistani pop', 'desi pop', 'filmi', 'ghazal', 'modern bollywood', 'pakistani pop']"
+Dream Note,4o0mCeiUIVdknPUMhpO0bd,"['hindi indie', 'indian indie', 'modern bollywood']"
+Anurag Saikia,6hzngLO20cX5IGqT0hVv1G,"['desi pop', 'modern bollywood']"
+Call,6dLuQ5qXxIuWc5urxfIiZR,"['corrido', 'corridos tumbados', 'musica mexicana', 'nueva musica mexicana', 'sad sierreno', 'sierreno']"
+Neha Bhasin,4E5oyNFcB3uXLkLdjYmP9Z,"['desi pop', 'filmi', 'modern bollywood']"
+Rahul Vaidya,6XypcJDBmfuRjq52PFUVwd,"['desi pop', 'filmi', 'modern bollywood']"
+Sona Mohapatra,5bv6NvAYNuvd2Vq13nHdG3,"['desi pop', 'filmi', 'modern bollywood']"
+Desi Gaana,2rEb1vrMe7IU8gh1ZTevTS,['desi pop']
+Stephen Dawes,3jTU1IOqkO7Mz4zdbXPose,[]
+Zaeden,5lMNphVhMLvhFmTWiKiLA2,"['desi pop', 'hindi indie', 'indian edm']"
+Naseebo Lal,4sAweKU7CjDZ1bUEb6VF6a,['classic pakistani pop']
+Farhan Saeed,1W67L8OH9z7C3b9YJJbVYq,"['modern bollywood', 'pakistani pop']"
