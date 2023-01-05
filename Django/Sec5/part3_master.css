@@ -1,0 +1,34 @@
+.firstdiv{
+    color: red;
+}
+.seconddiv{
+    color: orchid;
+}
+
+/* div{
+    color: red;
+} */
+/* if we use div then all div tag color is red  */
+#singleout{
+    color: green;
+    text-decoration: line-through;
+}
+
+/* *{
+    color:black;
+} */
+h3 + ul{
+    border: 4px dotted purple;
+    /* border: 4px;
+    border-style: dotted;
+    border-color: purple; */
+    /* tells us select all unorder list after h3  */
+}
+li a{
+    color: red;
+}
+
+li a[href='www.facebook.com']{
+    color:blue;
+    border: 4px solid orange
+}

@@ -1,0 +1,26 @@
+/* select tag{
+    propert: value;
+} */
+body{
+    /* background-color: gray; */
+background: url(https://thumbs.dreamstime.com/z/footbridge-sea-beach-meditation-journey-calm-hormone-sunset-sea-yoga-footbridge-sea-beach-meditation-journey-calm-hormone-128381503.jpg);
+/* background-repeat: no-repeat; */
+background-repeat: repeat;
+/* background can be repeat */
+}
+div{
+    background-color: blue;
+    border-color:red;
+    border-width: thick;
+    /* we can define border-width: 2px; in form of pixel */
+    border-style: dotted;
+}
+
+p{
+    color: greenyellow;
+}
+/* We color all paragraph as greenyellow */
+span{
+    background-color: red;
+    color: black;
+}

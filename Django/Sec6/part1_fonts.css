@@ -1,0 +1,21 @@
+h1{
+    font-family: cursive;
+}
+p{
+    font-family: monospace;
+}
+body{
+    font-size: 20px;
+}
+
+/* 1em = 16px
+2em = 32px */
+#two{
+    font-size: 2em;
+    font-style: italic;
+    font-weight: bold;
+}
+/* when we didn't apply font-size to id #two then due to body tag font size of both paragraph = 20px */
+h1{
+    text-align: center;
+}
